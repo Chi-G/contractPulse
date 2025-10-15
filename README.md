@@ -1,5 +1,7 @@
 # ContractPulse — Contract Management & Analytics (React + Vite)
 
+![ContractPulse screenshot](/assets/images/screenshot.png)
+
 A modern single-page application for contract lifecycle management, analytics, and workflow automation. Built with React, Tailwind CSS and Vite. This repo contains the frontend SPA; the backend can be attached using Laravel, NestJS, FastAPI, or serverless APIs depending on your preference.
 
 ---
